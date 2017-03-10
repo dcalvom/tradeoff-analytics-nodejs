@@ -6,7 +6,7 @@ declared-services:
 applications:
 - services:
   - tradeoff-analytics-standard-service
-  name: tradeoff-analytics-demo
+  name: carreras-ucr
   command: npm start
   path: .
   memory: 256M
